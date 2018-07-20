@@ -8,7 +8,6 @@ import java.util.Scanner;
 public class Main {
 
     public static void main(String[] args) {
-        // write your code here
 
         String Name;
         String Greetings;
@@ -71,5 +70,6 @@ public class Main {
         System.out.println("My age is an "+ message+ " number.");
 
         System.exit(0);
+
     }
 }
